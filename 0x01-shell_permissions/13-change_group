@@ -1,0 +1,2 @@
+#!/bin/shell
+chgrp school hello
