@@ -1,1 +1,1 @@
-The first 10 line
+a script that displays the third line of the file iacta
