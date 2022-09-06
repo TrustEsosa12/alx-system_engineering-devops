@@ -1,1 +1,1 @@
-i displayed the first 10 lines
+The first 10 line
